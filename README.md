@@ -10,14 +10,7 @@
 - 全屏显示倒计时
 - 自动添加到开机启动项
 
-## 使用方法
-
-1. 安装依赖：pip install pywin32
-2. 运行程序：python Windows锁屏.py
-3. 输入目标时间（格式：HH:MM:SS）
-4. 点击"开始锁屏"
-
-## 注意事项
+## 注意事项（必读）
 
 - 需要管理员权限运行
 - 建议先用短时间测试
@@ -27,7 +20,7 @@
 ## 环境要求
 
 - Windows 操作系统
-- Python 3.6+
+- Python 3.6+ 
 
 ## 下载和使用
 
@@ -36,5 +29,7 @@
    - 双击运行（需要管理员权限）
 
 2. 从源码运行：
-   - 安装依赖：`pip install pywin32`
-   - 运行 Python 脚本：`python Windows锁屏.py`
+   - 安装依赖：pip install pywin32
+   - 运行程序：python Windows锁屏.py
+   - 输入目标时间（格式：HH:MM:SS）
+   - 点击"开始锁屏"
